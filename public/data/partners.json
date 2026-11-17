@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Governo do Estado do Ceará",
+    "logo": "/assets/partners/governo-do-ceara.jpg",
+    "url": "https://www.ceara.gov.br"
+  },
+  {
+    "name": "Aurora Coop",
+    "logo": "/assets/partners/aurora-coop.jpg",
+    "url": "https://auroracoop.com.br"
+  },
+  {
+    "name": "Americanas marketplace",
+    "logo": "/assets/partners/americanas-marketplace.jpg",
+    "url": "https://vendedores.americanas.com.br/"
+  },
+  {
+    "name": "Copel",
+    "logo": "/assets/partners/copel.jpg",
+    "url": "https://www.copel.com"
+  },
+  {
+    "name": "TIM",
+    "logo": "/assets/partners/tim.jpg",
+    "url": "https://www.tim.com.br"
+  },
+  {
+    "name": "Ailos",
+    "logo": "/assets/partners/ailos.jpg",
+    "url": "https://www.ailos.coop.br"
+  },
+  {
+    "name": "Governo do Estado da Bahia",
+    "logo": "/assets/partners/governo-da-bahia.jpg",
+    "url": "https://www.ba.gov.br"
+  },
+  {
+    "name": "Usina Batatais | Cevasa",
+    "logo": "/assets/partners/usina-batatais-cevasa.jpg",
+    "url": "https://www.usinabatatais.com.br/"
+  },
+  {
+    "name": "BNDES",
+    "logo": "/assets/partners/bndes.jpg",
+    "url": "https://www.bndes.gov.br"
+  },
+  {
+    "name": "CAAL",
+    "logo": "/assets/partners/caal-juntos-somos-fortes.jpg",
+    "url": "https://www.caal.com.br"
+  },
+  {
+    "name": "Linx",
+    "logo": "/assets/partners/linx.jpg",
+    "url": "https://www.linx.com.br"
+  },
+  {
+    "name": "Governo do Estado do Rio Grande do Sul",
+    "logo": "/assets/partners/governo-do-rio-grande-do-sul.jpg",
+    "url": "https://www.rs.gov.br"
+  },
+  {
+    "name": "Corsan",
+    "logo": "/assets/partners/corsan.jpg",
+    "url": "https://www.corsan.com.br"
+  },
+  {
+    "name": "Huawei",
+    "logo": "/assets/partners/huawei.jpg",
+    "url": "https://www.huawei.com/br"
+  },
+  {
+    "name": "Sistema OCB",
+    "logo": "/assets/partners/sistema-ocb.jpg",
+    "url": "https://www.somoscooperativismo.coop.br"
+  },
+  {
+    "name": "Governo de Goiás",
+    "logo": "/assets/partners/governo-de-goias.jpg",
+    "url": "https://www.go.gov.br"
+  },
+  {
+    "name": "JBS",
+    "logo": "/assets/partners/jbs.jpg",
+    "url": "https://jbs.com.br"
+  },
+  {
+    "name": "Rio Energy",
+    "logo": "/assets/partners/rio-energy.jpg",
+    "url": "https://rioenergy.com.br/"
+  },
+  {
+    "name": "SomosCoop",
+    "logo": "/assets/partners/somoscoop.jpg",
+    "url": "https://www.somoscooperativismo.coop.br"
+  },
+  {
+    "name": "UNICEF",
+    "logo": "/assets/partners/unicef.jpg",
+    "url": "https://www.unicef.org/brazil"
+  },
+  {
+    "name": "Governo do Estado de Pernambuco",
+    "logo": "/assets/partners/governo-pernambuco.jpg",
+    "url": "https://www.pe.gov.br"
+  },
+  {
+    "name": "Petrobras",
+    "logo": "/assets/partners/petrobras.jpg",
+    "url": "https://petrobras.com.br"
+  },
+  {
+    "name": "C.Vale",
+    "logo": "/assets/partners/c-vale.jpg",
+    "url": "https://www.cvale.com.br"
+  },
+  {
+    "name": "First Tech",
+    "logo": "/assets/partners/first-tech.jpg",
+    "url": "https://www.first-tech.com"
+  },
+  {
+    "name": "Governo de Sergipe",
+    "logo": "/assets/partners/governo-de-sergipe.jpg",
+    "url": "https://www.se.gov.br"
+  },
+  {
+    "name": "Commvault",
+    "logo": "/assets/partners/commvault.jpg",
+    "url": "https://www.commvault.com"
+  },
+  {
+    "name": "Agrária",
+    "logo": "/assets/partners/agraria.jpg",
+    "url": "https://www.agraria.com.br"
+  },
+  {
+    "name": "CRVR",
+    "logo": "/assets/partners/crvr-solvi.jpg",
+    "url": "https://crvr.com.br/"
+  },
+  {
+    "name": "ANTT",
+    "logo": "/assets/partners/antt.jpg",
+    "url": "https://www.gov.br/antt"
+  },
+  {
+    "name": "Projeto RS Novas Façanhas",
+    "logo": "/assets/partners/projeto-rs-novas-facanhas.jpg",
+    "url": "https://www.novasfacanhas.rs.gov.br/"
+  },
+  {
+    "name": "OCB",
+    "logo": "/assets/partners/ocb.jpg",
+    "url": "https://www.somoscooperativismo.coop.br"
+  },
+  {
+    "name": "B2W Digital",
+    "logo": "/assets/partners/b2w-digital.jpg",
+    "url": "https://www.b2wdigital.com.br"
+  },
+  {
+    "name": "Cocal",
+    "logo": "/assets/partners/cocal.jpg",
+    "url": "https://www.cocal.com.br"
+  },
+  {
+    "name": "BRDE",
+    "logo": "/assets/partners/brde.jpg",
+    "url": "https://www.brde.com.br"
+  },
+  {
+    "name": "Governo de Mato Grosso",
+    "logo": "/assets/partners/governo-de-mato-grosso.jpg",
+    "url": "https://www.mt.gov.br"
+  },
+  {
+    "name": "Frimesa",
+    "logo": "/assets/partners/frimesa.jpg",
+    "url": "https://www.frimesa.com.br"
+  },
+  {
+    "name": "Usina Batatais",
+    "logo": "/assets/partners/usina-batatais.jpg",
+    "url": "https://www.usinabatatais.com.br/"
+  },
+  {
+    "name": "Zoom Tecnologia",
+    "logo": "/assets/partners/zoom-tecnologia.jpg",
+    "url": "https://www.zoomtecnologico.com/"
+  },
+  {
+    "name": "CAAL Cooperativa Agroindustrial",
+    "logo": "/assets/partners/caal-cooperativa-agroindustrial.jpg",
+    "url": "https://www.caal.com.br"
+  },
+  {
+    "name": "Governo do Maranhão",
+    "logo": "/assets/partners/governo-do-maranhao.jpg",
+    "url": "https://www.ma.gov.br"
+  },
+  {
+    "name": "Grupo FarmaBrasil",
+    "logo": "/assets/partners/grupo-farmabrasil.jpg",
+    "url": "https://grupofarmabrasil.com.br/"
+  },
+  {
+    "name": "Essencis",
+    "logo": "/assets/partners/essencis.jpg",
+    "url": "https://www.essencis.com.br"
+  },
+  {
+    "name": "Lar Cooperativa",
+    "logo": "/assets/partners/lar.jpg",
+    "url": "https://www.lar.ind.br"
+  },
+  {
+    "name": "Schio Agropecuária",
+    "logo": "/assets/partners/schio-agropecuaria.jpg",
+    "url": "https://agroschio.agr.br/"
+  },
+  {
+    "name": "Governo do Estado de Mato Grosso do Sul",
+    "logo": "/assets/partners/governo-mato-grosso-do-sul.jpg",
+    "url": "https://www.ms.gov.br"
+  },
+  {
+    "name": "Geosol",
+    "logo": "/assets/partners/geosol.jpg",
+    "url": "https://geosol.com.br/"
+  },
+  {
+    "name": "e-solidário",
+    "logo": "/assets/partners/e-solidario.jpg",
+    "url": "http://www.e-solidario.com.br/"
+  },
+  {
+    "name": "Aurora Alimentos",
+    "logo": "/assets/partners/aurora-alimentos.jpg",
+    "url": "https://www.auroraalimentos.com.br"
+  },
+  {
+    "name": "Governo do Tocantins",
+    "logo": "/assets/partners/governo-do-tocantins.jpg",
+    "url": "https://www.to.gov.br"
+  },
+  {
+    "name": "CTrens | CAF",
+    "logo": "/assets/partners/ctrens-caf.jpg",
+    "url": ""
+  },
+  {
+    "name": "Usina Coruripe",
+    "logo": "/assets/partners/usina-coruripe.jpg",
+    "url": "https://www.usinacoruripe.com.br/"
+  },
+  {
+    "name": "Unicred",
+    "logo": "/assets/partners/unicred.jpg",
+    "url": "https://www.unicred.com.br"
+  },
+  {
+    "name": "Maltaria Campos Gerais",
+    "logo": "/assets/partners/maltaria-campos-gerais.jpg",
+    "url": ""
+  },
+  {
+    "name": "Governo do Estado de Pernambuco",
+    "logo": "/assets/partners/governo-pernambuco-presenca.jpg",
+    "url": "https://www.pe.gov.br"
+  },
+  {
+    "name": "Grupo Editorial Zit",
+    "logo": "/assets/partners/grupo-editorial-zit.jpg",
+    "url": "https://www.grupoeditorialzit.com.br/"
+  },
+  {
+    "name": "Biotérmica Energia",
+    "logo": "/assets/partners/biotermica.jpg",
+    "url": "https://biotermicaenergia.com.br/"
+  },
+  {
+    "name": "Cooper A1",
+    "logo": "/assets/partners/cooper-a1.jpg",
+    "url": "https://www.coopera1.com.br/"
+  },
+  {
+    "name": "Contracapa Gráfica e Editora",
+    "logo": "/assets/partners/contracapa.jpg",
+    "url": "https://loja.contracapaeditora.com.br/"
+  },
+  {
+    "name": "Governo do Amapá",
+    "logo": "/assets/partners/governo-do-amapa.jpg",
+    "url": "https://portal.ap.gov.br"
+  },
+  {
+    "name": "SomosCoop",
+    "logo": "/assets/partners/somoscoop-2.jpg",
+    "url": "https://www.somoscooperativismo.coop.br"
+  },
+  {
+    "name": "Cevasa",
+    "logo": "/assets/partners/cevasa.jpg",
+    "url": "https://cevasa.com.br/"
+  },
+  {
+    "name": "Nova Rota do Oeste",
+    "logo": "/assets/partners/nova-rota-do-oeste.jpg",
+    "url": "https://novarotadooeste.com.br/"
+  }
+]

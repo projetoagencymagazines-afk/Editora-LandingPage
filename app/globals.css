@@ -92,3 +92,34 @@ body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
 }
+/* Carrossel de logos (arrastável) */
+.marquee-viewport {
+  overflow-x: auto;
+  overflow-y: hidden;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  cursor: grab;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-mask-image: linear-gradient(
+    to right,
+    transparent,
+    #000 6%,
+    #000 94%,
+    transparent
+  );
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    #000 6%,
+    #000 94%,
+    transparent
+  );
+}
+.marquee-viewport::-webkit-scrollbar {
+  display: none;
+}
+.marquee-viewport.is-dragging,
+.marquee-viewport.is-dragging * {
+  cursor: grabbing !important;
+}
