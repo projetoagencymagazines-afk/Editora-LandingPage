@@ -127,7 +127,6 @@ function MarqueeRow({
           pos = normalizar(pos + direction * VELOCIDADE * dt);
           el.scrollLeft = pos;
         } else {
-          // Alguém está mexendo (ou está pausado): acompanha a posição real
           const atual = el.scrollLeft;
           const ajustada = normalizar(atual);
           if (ajustada !== atual) el.scrollLeft = ajustada;
